@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\dailyreport2\bin\Debug\dailyreport2.exe.config
+C:\Users\andre\source\repos\dailyreport2\bin\Debug\dailyreport2.exe
+C:\Users\andre\source\repos\dailyreport2\bin\Debug\dailyreport2.pdb
+C:\Users\andre\source\repos\dailyreport2\obj\Debug\dailyreport2.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\dailyreport2\obj\Debug\dailyreport2.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\dailyreport2\obj\Debug\dailyreport2.exe
+C:\Users\andre\source\repos\dailyreport2\obj\Debug\dailyreport2.pdb
