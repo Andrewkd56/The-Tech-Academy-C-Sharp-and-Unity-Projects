@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\arrayListsAssignment\bin\Debug\arrayListsAssignment.exe.config
+C:\Users\andre\source\repos\arrayListsAssignment\bin\Debug\arrayListsAssignment.exe
+C:\Users\andre\source\repos\arrayListsAssignment\bin\Debug\arrayListsAssignment.pdb
+C:\Users\andre\source\repos\arrayListsAssignment\obj\Debug\arrayListsAssignment.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\arrayListsAssignment\obj\Debug\arrayListsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\arrayListsAssignment\obj\Debug\arrayListsAssignment.exe
+C:\Users\andre\source\repos\arrayListsAssignment\obj\Debug\arrayListsAssignment.pdb
