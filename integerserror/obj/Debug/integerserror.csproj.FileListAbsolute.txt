@@ -1,7 +1,0 @@
-C:\Users\andre\source\repos\integerserror\bin\Debug\integerserror.exe.config
-C:\Users\andre\source\repos\integerserror\bin\Debug\integerserror.exe
-C:\Users\andre\source\repos\integerserror\bin\Debug\integerserror.pdb
-C:\Users\andre\source\repos\integerserror\obj\Debug\integerserror.csproj.AssemblyReference.cache
-C:\Users\andre\source\repos\integerserror\obj\Debug\integerserror.csproj.CoreCompileInputs.cache
-C:\Users\andre\source\repos\integerserror\obj\Debug\integerserror.exe
-C:\Users\andre\source\repos\integerserror\obj\Debug\integerserror.pdb
