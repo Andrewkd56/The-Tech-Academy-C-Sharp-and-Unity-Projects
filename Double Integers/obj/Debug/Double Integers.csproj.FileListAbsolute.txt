@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\Double Integers\bin\Debug\Double Integers.exe.config
+C:\Users\andre\source\repos\Double Integers\bin\Debug\Double Integers.exe
+C:\Users\andre\source\repos\Double Integers\bin\Debug\Double Integers.pdb
+C:\Users\andre\source\repos\Double Integers\obj\Debug\Double Integers.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Double Integers\obj\Debug\Double Integers.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Double Integers\obj\Debug\Double Integers.exe
+C:\Users\andre\source\repos\Double Integers\obj\Debug\Double Integers.pdb
