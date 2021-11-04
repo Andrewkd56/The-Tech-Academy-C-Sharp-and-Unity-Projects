@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\ClassSubmission\bin\Debug\ClassSubmission.exe.config
+C:\Users\andre\source\repos\ClassSubmission\bin\Debug\ClassSubmission.exe
+C:\Users\andre\source\repos\ClassSubmission\bin\Debug\ClassSubmission.pdb
+C:\Users\andre\source\repos\ClassSubmission\obj\Debug\ClassSubmission.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\ClassSubmission\obj\Debug\ClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ClassSubmission\obj\Debug\ClassSubmission.exe
+C:\Users\andre\source\repos\ClassSubmission\obj\Debug\ClassSubmission.pdb
