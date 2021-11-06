@@ -15,7 +15,11 @@ namespace Person
             employee.fName = "Sample";
             employee.lName = "Student";
             employee.SayName();
-            employee.Quit(employee);
+            employee1.Quit(employee);
+
+            
+            
+
             Console.ReadLine();
 
         }

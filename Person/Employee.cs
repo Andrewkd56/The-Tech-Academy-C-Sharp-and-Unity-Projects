@@ -16,7 +16,7 @@ namespace Person
 
     public void Quit(Employee employee)
     {
-        Console.WriteLine("I quit");
+            Console.WriteLine("I quit");
     }
     }
     
