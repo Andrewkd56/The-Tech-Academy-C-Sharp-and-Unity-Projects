@@ -10,10 +10,12 @@ namespace Person
     {
         static void Main(string[] args)
         {
+            IQuittable employee1 = new Employee();
             Employee employee = new Employee();
             employee.fName = "Sample";
             employee.lName = "Student";
             employee.SayName();
+            employee.Quit(employee);
             Console.ReadLine();
 
         }

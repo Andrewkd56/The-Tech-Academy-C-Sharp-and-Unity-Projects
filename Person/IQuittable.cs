@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Person
 {
-    interface IQuittable
+    public interface IQuittable
     {
+        void Quit(Employee employee);
     }
 }

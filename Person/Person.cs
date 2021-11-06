@@ -8,7 +8,7 @@ namespace Person
 {
     public class Person
     {
-        IQuittable quittable = new Employee();
+        
         public string fName { get; set; }
         public string lName { get; set; }
 
@@ -18,9 +18,6 @@ namespace Person
             Console.ReadLine();
         }
 
-        public void Quit()
-        {
-            Console.WriteLine("I quit");
-        }
+        
     }
 }
