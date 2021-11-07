@@ -8,7 +8,7 @@ namespace Person
 {
     public class Person
     {
-        
+        public List<Employee> Employees { get; set; }
         public string fName { get; set; }
         public string lName { get; set; }
 
